@@ -1,4 +1,15 @@
-div{
+div{ 
     display: flex;
-   columns: gap;
+flex-direction: row;
+background-color: rgb(255, 0, 0);
+width: 400px;
+height: 400px;
+flex-wrap: no wrap;
+overflow: scroll;
 }
+
+img {
+    width: 100px;
+    height: 80px;
+}
+
